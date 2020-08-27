@@ -24,6 +24,11 @@
     background-image: url('https://cse.fitness/wp-content/uploads/MicrosoftTeams-image-21.jpg');
 }
 .slide p {
-    margin-top: 220px;
-    margin-bottom: 230px;
+    margin-top: 400px;
+}
+.curved-div {
+    width: 100%;
+    height: 60px;
+    background-color: #b6b6b6;
+    border-radius: 5px 0px 0px 0px;
 }

@@ -1,0 +1,29 @@
+.slide {
+    background-position: center;
+    background-size: cover;
+}
+.slide1 {
+    background-image: url('https://cse.fitness/wp-content/uploads/exergaming.jpg');
+}
+.slide2 {
+    background-image: url('https://cse.fitness/wp-content/uploads/bg_products2.jpg');
+}
+.slide3 {
+    background-image: url('https://cse.fitness/wp-content/uploads/runbeat.jpg');
+}
+.slide4 {
+    background-image: url('https://cse.fitness/wp-content/uploads/groupBEAT-main-photo.jpg');
+}
+.slide5 {
+    background-image: url('https://cse.fitness/wp-content/uploads/athene_exergaming.jpg');
+}
+.slide6 {
+    background-image: url('https://cse.fitness/wp-content/uploads/cycloBEAT-main-photo.jpg');
+}
+.slide7 {
+    background-image: url('https://cse.fitness/wp-content/uploads/MicrosoftTeams-image-21.jpg');
+}
+.slide p {
+    margin-top: 220px;
+    margin-bottom: 230px;
+}

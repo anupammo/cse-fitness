@@ -1,0 +1,33 @@
+We are looking for a website designer/copywriter/developer to work a long term basis.
+With this project, we choose the person or a team that will keep working with us in the future.
+
+Your task is to re-design our corporate website with new logos and colors. See the new brand book as attached.
+Current website www.cse.fitness and one of our product page www.iwall.fitness.
+I have made a mockup to give some ideas on what this new page would look. https://cse.fitness/2020/fi/ don't mind the content.
+
+the structure would be something like this
+- Home
+- Company
+- - Open positions
+- - Investor info
+- Products (ecommerce)
+- - iWall
+- - tapWall
+- - runBEAT
+- - cycloBEAT
+- - groupBEAT
+- - groupBEAT Home Studio
+- - rehabWall
+- Customers (or references)
+- - School
+- - Family Entertainment Center
+- - Shopping mall
+- - Fitness Club
+- - Rehabilitation
+- - Travel
+- - Advertisers
+. Exergaming
+- Contact
+
+So we need a submenu or dropdown menu, I leave that decision to you.
+May the best design win!
